@@ -1,0 +1,17 @@
+{
+"name": "../TS021_ethnic_group_tb_6a_2021",
+"description": "../TS021_ethnic_group_tb_6a_2021",
+"version": "2",
+"minzoom": "8",
+"maxzoom": "12",
+"center": "-0.043945,51.536077,12",
+"bounds": "-6.387746,49.867175,1.762403,55.810465",
+"antimeridian_adjusted_bounds": "-6.387746,49.867175,1.762403,55.810465",
+"type": "overlay",
+"strategies": "[{},{},{},{},{},{},{},{},{\"dropped_by_rate\":65275165},{\"dropped_by_rate\":63416564},{\"dropped_by_rate\":60316152},{\"dropped_by_rate\":54034107},{\"dropped_by_rate\":38631769}]",
+"tippecanoe_decisions": "{\"basezoom\":13,\"droprate\":2.5,\"retain_points_multiplier\":1}",
+"format": "pbf",
+"generator": "tippecanoe v2.79.0",
+"generator_options": "tippecanoe -f -l TS021_ethnic_group_tb_6a_2021 --no-tile-compression --no-tile-size-limit --no-feature-limit --read-parallel -Z8 -zg -B13 '--output-to-directory=../TS021_ethnic_group_tb_6a_2021' temp/TS021_ethnic_group_tb_6a_2021_chunk_0.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_1.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_10.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_11.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_12.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_13.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_14.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_15.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_16.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_17.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_18.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_19.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_2.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_20.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_21.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_22.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_23.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_24.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_25.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_26.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_27.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_28.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_29.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_3.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_30.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_31.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_4.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_5.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_6.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_7.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_8.ndjson temp/TS021_ethnic_group_tb_6a_2021_chunk_9.ndjson",
+"json": "{\"vector_layers\":[{\"id\":\"TS021_ethnic_group_tb_6a_2021\",\"description\":\"\",\"minzoom\":8,\"maxzoom\":12,\"fields\":{\"cat\":\"Number\"}}],\"tilestats\":{\"layerCount\":1,\"layers\":[{\"layer\":\"TS021_ethnic_group_tb_6a_2021\",\"count\":59595045,\"geometry\":\"Point\",\"attributeCount\":1,\"attributes\":[{\"attribute\":\"cat\",\"count\":5,\"type\":\"number\",\"values\":[0,1,2,3,4],\"min\":0,\"max\":4}]}]}}"
+}
